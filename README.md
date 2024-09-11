@@ -14,4 +14,5 @@ https://github.com/afiskon/ayn-4b
     Has a VCC indicator and a SWR meter
     PCB is designed to fit into Hammond 1590BB enclosure
     The project is 100% open-source
+## Версия для компиляции на LINUX UBUNTU   
 
